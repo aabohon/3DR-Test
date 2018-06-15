@@ -1,0 +1,14 @@
+C:\Users\Alain\source\repos\3dLoginTest\3dLoginTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Alain\source\repos\3dLoginTest\3dLoginTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Alain\source\repos\3dLoginTest\3dLoginTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Alain\source\repos\3dLoginTest\3dLoginTest\bin\Debug\netcoreapp2.1\3dLoginTest.deps.json
+C:\Users\Alain\source\repos\3dLoginTest\3dLoginTest\bin\Debug\netcoreapp2.1\3dLoginTest.runtimeconfig.json
+C:\Users\Alain\source\repos\3dLoginTest\3dLoginTest\bin\Debug\netcoreapp2.1\3dLoginTest.runtimeconfig.dev.json
+C:\Users\Alain\source\repos\3dLoginTest\3dLoginTest\bin\Debug\netcoreapp2.1\3dLoginTest.dll
+C:\Users\Alain\source\repos\3dLoginTest\3dLoginTest\bin\Debug\netcoreapp2.1\3dLoginTest.pdb
+C:\Users\Alain\source\repos\3dLoginTest\3dLoginTest\obj\Debug\netcoreapp2.1\3dLoginTest.csproj.CoreCompileInputs.cache
+C:\Users\Alain\source\repos\3dLoginTest\3dLoginTest\obj\Debug\netcoreapp2.1\3dLoginTest.AssemblyInfoInputs.cache
+C:\Users\Alain\source\repos\3dLoginTest\3dLoginTest\obj\Debug\netcoreapp2.1\3dLoginTest.AssemblyInfo.cs
+C:\Users\Alain\source\repos\3dLoginTest\3dLoginTest\obj\Debug\netcoreapp2.1\3dLoginTest.dll
+C:\Users\Alain\source\repos\3dLoginTest\3dLoginTest\obj\Debug\netcoreapp2.1\3dLoginTest.pdb
+C:\Users\Alain\source\repos\3dLoginTest\3dLoginTest\obj\Debug\netcoreapp2.1\3dLoginTest.csprojAssemblyReference.cache
